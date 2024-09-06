@@ -6,7 +6,7 @@ email: dlishuang910@gmail.com
 description: "Personal learning thoughts |Aim to be the best myself "
 keyword: "Big Data,AI, Data Mining, Machine Learning, NLP, Hux Blog, Data Analysis"
 url: "https://LishuangDeng.github.io" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: " " # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -89,5 +89,4 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-#friends:
-  [ ]
+#friends:[ ]
